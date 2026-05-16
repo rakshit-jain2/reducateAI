@@ -174,18 +174,4 @@ npm start
 npm run lint
 ```
 
-## 📄 License
 
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for improvements.
-
-## 📧 Support
-
-For questions or support, please contact admissions@eduverse.edu
-
----
-
-**Built with ❤️ using Next.js 15, TypeScript, and Tailwind CSS**
