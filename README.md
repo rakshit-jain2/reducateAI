@@ -21,11 +21,11 @@ A modern and responsive university landing page inspired by JG University, redes
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+
 
 ## GitHub Repository
 
-https://github.com/yourusername/codingjr-landing-page
+(https://github.com/rakshit-jain2/reducateAI.git)
 
 ## Run Locally
 
