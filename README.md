@@ -8,7 +8,7 @@ A modern and responsive university landing page inspired by JG University, redes
 - TypeScript
 - Tailwind CSS
 - Framer Motion
-- Lucide React
+
 
 ## Features
 
@@ -17,15 +17,11 @@ A modern and responsive university landing page inspired by JG University, redes
 - Modern glassmorphism UI
 - Interactive program cards
 - Testimonials section
-- SEO-friendly structure
+
 
 ## Live Demo
+https://reducate-ai-black.vercel.app/
 
-
-
-## GitHub Repository
-
-(https://github.com/rakshit-jain2/reducateAI.git)
 
 ## Run Locally
 
